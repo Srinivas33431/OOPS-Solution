@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPS_learnings", "OOPS_learnings\OOPS_learnings.csproj", "{44B3A4E4-9617-4E01-874D-7253D331473F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44B3A4E4-9617-4E01-874D-7253D331473F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B3A4E4-9617-4E01-874D-7253D331473F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B3A4E4-9617-4E01-874D-7253D331473F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B3A4E4-9617-4E01-874D-7253D331473F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B6308D2-2742-4973-8E45-45D8463306D0}
+	EndGlobalSection
+EndGlobal
